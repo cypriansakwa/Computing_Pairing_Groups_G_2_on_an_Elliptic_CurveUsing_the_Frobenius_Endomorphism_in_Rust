@@ -1,0 +1,8 @@
+[package]
+name = "Computing_Pairing_Groups_G_2_on_an_Elliptic_CurveUsing_the_Frobenius_Endomorphism_in_Rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
