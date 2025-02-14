@@ -131,7 +131,7 @@ The struct `F5x2` represents elements as `a + bt`.
 - Arithmetic operations (`add`, `sub`, `mul`, `div`)  
 - Modular inversion  
 - Frobenius automorphism:  
-  $  (a + bt)^5 = a + 4bt$
+  $(a + bt)^5 = a + 4bt$
 
 ### Elliptic Curve Representation (Point)  
 The struct `Point` represents points on the curve.  
